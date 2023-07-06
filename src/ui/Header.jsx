@@ -10,7 +10,7 @@ function Header() {
     py-3 uppercase sm:px-6"
     >
       <Link to="/" className="tracking-widest">
-        Fast React Pizza Co.
+        Fast Pizza Co.
       </Link>
       <SearchOrder />
 
